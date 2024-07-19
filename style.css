@@ -1,0 +1,15 @@
+
+
+@media only screen and (max-width:620px){
+
+    .first-img{
+        width: 80%;
+    }
+    .p-box{
+        scale: .9;
+        padding: 0 10px;
+    }
+    .for-img {
+        width: 100%;
+    }
+}
